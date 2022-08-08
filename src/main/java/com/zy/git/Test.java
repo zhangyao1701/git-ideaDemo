@@ -9,5 +9,6 @@ public class Test {
         System.out.println("master add");
         System.out.println("hot-fix update");
         System.out.println("master push");
+        System.out.println("update aaaaaaaaaaaa");
     }
 }
