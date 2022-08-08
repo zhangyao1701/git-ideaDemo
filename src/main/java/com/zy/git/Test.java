@@ -7,5 +7,6 @@ public class Test {
         System.out.println("there");
         System.out.println("hot-fix add");
         System.out.println("master add");
+        System.out.println("hot-fix update");
     }
 }
