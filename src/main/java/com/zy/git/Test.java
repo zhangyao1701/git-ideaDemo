@@ -10,5 +10,6 @@ public class Test {
         System.out.println("hot-fix update");
         System.out.println("master push");
         System.out.println("update aaaaaaaaaaaa");
+System.out.println("git aaaaaaaaaaaa");
     }
 }
